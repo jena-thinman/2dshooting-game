@@ -2,7 +2,7 @@
 2 D shooting game on linux terminal using ncurses
 
 controls: 
-gun direction → a & d
+gun direction → a & d.
 fire → w
 
  while compiling ensure to use -lncurses and -lpthread if ncurses is not installed it must be downloaded first.
